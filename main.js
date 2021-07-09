@@ -1,4 +1,4 @@
-const riotKey = "RGAPI-17da9065-cba8-4fc9-9d34-6f8a06587eb5";
+const riotKey = "your riot key";
 const sp = "%20";
 const fetch = require('node-fetch');
 const express = require('express');
